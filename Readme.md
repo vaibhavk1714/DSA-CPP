@@ -10,8 +10,8 @@
 2. **Binary Search**
     -Time Complexity
      - Best case = **O(1)**
-     - Average case = **O(n)**
-     - Worst case = **O(n)**
+     - Average case = **O(log n)**
+     - Worst case = **O(log n)**
 
 ## Sorting Algorithms for arrays
 1. **Selection Sort** - Time complexity - **O(n^2)**
