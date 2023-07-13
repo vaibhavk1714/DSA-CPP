@@ -3,9 +3,9 @@
 ## Searching Algorithms in arrays
 1. **Linear Search**
        -Time Complexity
-           + Best case = **O(1)**
-           + Average case = **O(n)**
-           + Worst case = **O(n)**
+           - Best case = **O(1)**
+           - Average case = **O(n)**
+           - Worst case = **O(n)**
    
 2. **Binary Search**
        -Time Complexity
