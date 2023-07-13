@@ -19,15 +19,15 @@
     - It is an unstable algorithm
 2. **Bubble Sort**
     - Time Complexity
-      - Best case = **O(n)**  (After optimization else O(n^2) )
+      - Best case = **O(n)**  (After optimization else O(n^2) ) - sorted array
       - Average case = **O(n^2)**
-      - Worst case = **O(n^2)**
+      - Worst case = **O(n^2)** - totally unsorted array
     - It is in-place sorting algorithm
     - It is a stable algorithm
 3. **Insertion Sort**
     - Time complexity
-      - Best case = **O(n)**  (After optimization else O(n^2) )
+      - Best case = **O(n)** - sorted array
       - Average case = **O(n^2)**
-      - Worst case = **O(n^2)**
+      - Worst case = **O(n^2)** - totally unsorted array
     - It is in-place sorting algorithm
     - It is a stable algorithm
