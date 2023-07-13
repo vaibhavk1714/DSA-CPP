@@ -17,3 +17,6 @@
 1. **Selection Sort** - Time complexity - **O(n^2)**
     - It is in-place comparison based sorting
     - It is an unstable algorithm
+2. **Bubble Sort** - Time complexity - **O(n^2)**
+    - It is in-place comparison based sorting
+    - It is an unstable algorithm
