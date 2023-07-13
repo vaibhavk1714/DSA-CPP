@@ -24,3 +24,10 @@
       - Worst case = **O(n^2)**
     - It is in-place sorting algorithm
     - It is a stable algorithm
+3. **Insertion Sort**
+    - Time complexity
+      - Best case = **O(n)**  (After optimization else O(n^2) )
+      - Average case = **O(n^2)**
+      - Worst case = **O(n^2)**
+    - It is in-place sorting algorithm
+    - It is a stable algorithm
