@@ -1,4 +1,4 @@
-# Important algorithms with code and time complexity in C++
+# Important algorithms with code and time complexitygiut in C++
 
 ## Searching Algorithms in arrays
 
